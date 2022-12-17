@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "61929718636",
+    "project_id": "queso-app-311f9",
+    "storage_bucket": "queso-app-311f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61929718636:android:12f10b82c6a206c140a949",
+        "android_client_info": {
+          "package_name": "com.example.queso_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61929718636-7ogu4rr5slao16oddi3an7rnijd852ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWp0toLI5Sj43BO7HagBI2_s3xxMpDJQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61929718636-7ogu4rr5slao16oddi3an7rnijd852ps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
